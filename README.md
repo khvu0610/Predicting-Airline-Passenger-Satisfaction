@@ -17,9 +17,9 @@ Our goal is to figure out what factors influence passenger satisfaction, how air
 ## 3. Methodology
 ### 3.1. Dataset
 
-TJ Klein (2019). Airline Passenger Satisfaction. Retrieved from: 
- https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data. 
- 
+Airline Passenger Satisfaction. Retrieved from: 
+[Data](https://github.com/khvu0610/Predicting-Airline-Passenger-Satisfaction/tree/main/Data)
+
 This dataset contains an airline passenger satisfaction survey. It is related to customer satisfaction ratings and travel details. The attributes in this dataset may provide information on gender, customer type, age, travel purpose, seat class, flight distance, various services and amenities provided during the flight, departure and arrival delays, and customer satisfaction levels. 
 
 ### 3.2. Data
